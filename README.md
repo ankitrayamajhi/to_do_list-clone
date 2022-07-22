@@ -1,5 +1,5 @@
 
-To-do-list - dApp to-do-list </bold>
+<h1>To-do-list - dApp </h1>
 <br>
 
 To-do-list is a blockchain based dApp. This is a collaborative work done by <a href="https://github.com/srijan-lamichhane">Srijan Lamichhane</a> and <a href="https://github.com/ankitrayamajhi">Ankit Rayamajhi</a>.
@@ -13,8 +13,6 @@ To-do-list works on local network. Get the experience of reminder list among the
 <h2>Dependencies</h2>
 <hr>
 
-**Server**
-
 -   bootstrap
 -   chai
 -   chai-as-promised
@@ -24,7 +22,7 @@ To-do-list works on local network. Get the experience of reminder list among the
 -   truffle
 -   truffle-contract
 
-   react-flip-move
+-   react-flip-move
 
 <br>
 <br>
@@ -55,9 +53,7 @@ To-do-list works on local network. Get the experience of reminder list among the
 
 
 
-<br>
->cd ..
-<br>
+
 
 
 <br>
